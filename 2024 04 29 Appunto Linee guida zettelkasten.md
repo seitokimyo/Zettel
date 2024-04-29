@@ -1,10 +1,10 @@
 ---
 layout: nessuno
 title:  "Linee guida Zettelkasten"
-date:   2024-04-29 08:33:24 +0200
+date:   2024-04-29 12:49:00 +0200
 categories: appunti
 documento: linee guida zettelksten
-versione: 1.0
+versione: 1.1
 ---
 
 # LINEE GUIDA ZETTELKASTEN
@@ -25,7 +25,7 @@ Gli appunti sono una qualsiasi unità elementare di conoscenza prodotta dall'aut
 
 ## Workflow
 Si descrive di seguito il processo di lavoro (workflow) degli appunti[^1]. 
-Il workflow riguarda la cattura Questi includono catturare, elaborare, rivedere, produrre e riflettere sull'informazione. Ciascuno di questi passaggi ha un ruolo nella mia vita personale e professionale, dalla scrittura di blog e articoli freelance alla redazione di manoscritti accademici. Esaminerò ogni passaggio di seguito.
+Il workflow comprende cinque fasi: catturare, elaborare, rivedere, produrre e riflettere sull'informazione. Esaminerò ogni passaggio di seguito.
 
 **Cattura.** Quando ho un pensiero che desidero riprendere, ne prendo nota. A volte lo faccio su un post-it in tasca durante una corsa. Altre volte, è una nota digitale sul mio telefono. Non importa dove catturo inizialmente l'idea, purché trovi il tempo per elaborare e rivedere la nota.
 
@@ -36,6 +36,33 @@ Il workflow riguarda la cattura Questi includono catturare, elaborare, rivedere,
 **Produzione.** Per me, produrre nuove informazioni spesso implica una forma di scrittura. Uso diverse note (su progetti, articoli, annotazioni, diagrammi) per creare schemi, che sviluppo in bozze e, alla fine, pubblicazioni. Ho scritto blog personali, articoli di ricerca accademica e articoli freelance. Mi piace il processo di scrittura e il mio sistema di prendere appunti è parzialmente responsabile di facilitare spazi che mi permettono di scrivere.
 
 **Riflessione.** Quando riflettiamo, ci incoraggiamo ad essere attenti a ciò che altrimenti avremmo potuto perdere. Rifletto per essere consapevole di ciò che sto imparando dalla lettura del lavoro degli altri, dalla mia scrittura, dalle relazioni e da me stesso. La riflessione integra il processo di revisione. Oltre a ordinare le informazioni e riavvicinarmi ad esse, rifletto in modo più soggettivo e cerco di capire come mi sento riguardo alle note che ho preso.
+
+## Strumenti
+**Note txt / MD**: sul supporto digitale il modo più veloce ed efficace per prendere una nota è spesso un file txt o, se possibile, in Markdown. Il passaggio da 
+
+## Contenitori
+**Github** quando si tratta di file pubblici github è uno dei contenitori migliori. Github inoltre può contenere i file in diverse modalità:
++ File sul repository
++ Pagina sul sito statico o post del blog
++ Pagina wiki
+
+**Notion** ci sono appunti, spesso privati, che devono essere disponibili facilmente per un tempo indeterminato (per es. i riferimenti e gli orari del medico). In questo caso Notion è il miglior contenitore.
+
+**Google Drive** Quando si tratta di file, prevalentemente privati ma possono esserci anche cartelle pubbliche, da rendere facilmente disponibili, ebbene una cartella Gdrive sembra essere la scelta migliore.
+
+|Contenitore|Natura appunto|Tipo di appunto|Livello di strutturazione| 
+|:---:|:---:|:---:|:---:| 
+|GitHub|pubblico|txt, md, wiki, pagine statiche, blog|medio-alto|
+|Notion|privato|md|alto|
+|Google Drive|privato (anche pubblico)|file di tutti i tipi|medio-basso|
+
+> [!TIP]
+> 
+> La scelta del contenitore è ampiamente discrezionale, spesso la scelta migliore è quella che rende l'appunto più facilmente disponibile. Altro aspetto da considerare è il livello di strutturazione: nella fase di cattura è tipicamente basso, con l'elaborazione passa a livelli più alti.
+
+
+## Possibili evoluzioni
+
 
 ## Note
 [^1] questa parte la sto mutuando dal sito https://www.emilyhokett.blog/whats-your-core-note-taking-system/
