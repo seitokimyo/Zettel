@@ -25,7 +25,7 @@ Gli appunti sono una qualsiasi unità elementare di conoscenza prodotta dall'aut
 
 ## Workflow
 Si descrive di seguito il processo di lavoro (workflow) degli appunti[^1]. 
-Il workflow riguarda la cattura Questi includono catturare, elaborare, rivedere, produrre e riflettere sull'informazione. Ciascuno di questi passaggi ha un ruolo nella mia vita personale e professionale, dalla scrittura di blog e articoli freelance alla redazione di manoscritti accademici. Esaminerò ogni passaggio di seguito.
+Il workflow si compone di cinque fasi: catturare, elaborare, rivedere, produrre e riflettere sull'informazione. Ciascuno di questi passaggi ha un ruolo nella mia vita personale e professionale, dalla scrittura di blog e articoli freelance alla redazione di manoscritti accademici. Esaminerò ogni passaggio di seguito.
 
 **Cattura.** Quando ho un pensiero che desidero riprendere, ne prendo nota. A volte lo faccio su un post-it in tasca durante una corsa. Altre volte, è una nota digitale sul mio telefono. Non importa dove catturo inizialmente l'idea, purché trovi il tempo per elaborare e rivedere la nota.
 
