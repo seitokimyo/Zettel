@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: nessuno
 title:  "Linee guida Zettelkasten"
@@ -66,3 +67,6 @@ Il workflow comprende cinque fasi: catturare, elaborare, rivedere, produrre e ri
 
 ## Note
 [^1] questa parte la sto mutuando dal sito https://www.emilyhokett.blog/whats-your-core-note-taking-system/
+=======
+
+>>>>>>> cac9d41c832ca98d6ddbea97168d52edba037fd2
